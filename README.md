@@ -1,6 +1,6 @@
 # Hi there, I'm CKJayathilaka 👋
 
-🎓 **Undergraduate Student** at the Open University of Sri Lanka (OUSL)  
+🎓 **Undergraduate Software Engineering Student** at the Open University of Sri Lanka (OUSL)  
 📚 Pursuing BSE (Hons) in Software Engineering  
 💻 **Languages:** Python | Java  
 🤖 **Interests:** Robotic Technology
