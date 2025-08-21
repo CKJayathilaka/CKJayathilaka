@@ -19,12 +19,9 @@ I'm a passionate software engineering student, excited by the intersection of co
   
 ## 🧰 Tech Stack  
 I love working with tools that enhance productivity, ensure software quality, and support scalable development. Here's a snapshot of my go-to tools and frameworks:  
-💻 Languages  
-      python, Java Script, Java, C, HTML, CSS, XML, JSON  
-🧰 Frameworks & Tools  
-      Selenium, Postman, JMeter, CodeIgniter  
-🛠️ Core Development Tools  
-      Visual Studio Code, PyCharm, Jupyter Notebook  
+💻 Languages: python, Java Script, Java, C, HTML, CSS, XML, JSON  
+🧰 Frameworks & Tools: Selenium, Postman, JMeter, CodeIgniter  
+🛠️ Core Development Tools: Visual Studio Code, PyCharm, Jupyter Notebook  
 
 ## 📈 GitHub Stats
 
